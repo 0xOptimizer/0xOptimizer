@@ -7,11 +7,13 @@
     </i>
 </p>
 
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/0xOptimizer)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/0xOptimizer)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/0xOptimizer)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/0xOptimizer)
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/0xOptimizer)
 
 ### Technologies & Frameworks
 [![CodeIgniter](https://img.shields.io/badge/codeigniter-black?style=for-the-badge&logo=codeigniter)](https://github.com/0xOptimizer)
@@ -23,6 +25,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/0xOptimizer)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/0xOptimizer)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/0xOptimizer)
+[![OpenZeppelin](https://img.shields.io/badge/openzeppelin-black?style=for-the-badge&logo=openzeppelin)](https://github.com/0xOptimizer)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/0xOptimizer)
@@ -42,6 +45,12 @@
   </a>
 </p>
 </details>
+
+<p align="center">
+  <b>Contact Me</b><br>
+   Discord: Optimizer#3148<br>
+   Email: optimizer@tewi.club
+</p>
 
 <p align="center">
   <a href="https://github.com/0xOptimizer">
