@@ -21,6 +21,8 @@
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/0xOptimizer)
 [![PyCord](https://img.shields.io/badge/pycord-black?style=for-the-badge&logo=discord)](https://github.com/0xOptimizer)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/0xOptimizer)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/0xOptimizer)
+[![Snowflake SQL](https://img.shields.io/badge/snowflake-black?style=for-the-badge&logo=mysql)](https://github.com/0xOptimizer)
 [![PyTorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://github.com/0xOptimizer)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/0xOptimizer)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/0xOptimizer)
