@@ -32,6 +32,7 @@
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/0xOptimizer)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/0xOptimizer)
+[![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=Debian)](https://github.com/0xOptimizer)
 [![TempleOS](https://img.shields.io/badge/TempleOS-black?style=for-the-badge&logo=TempleOS)](https://github.com/0xOptimizer)
 
 <details>
