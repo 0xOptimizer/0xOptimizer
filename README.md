@@ -3,7 +3,9 @@
     <i>
         I'm a full-stack developer.
         <br>
-        Currently readapting myself outside my stack bubble.
+        Check out my custom Skyweaver card creator!
+        <br>
+        https://soulforge.gold
     </i>
 </p>
 
