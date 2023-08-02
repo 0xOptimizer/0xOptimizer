@@ -59,7 +59,8 @@
 <p align="center">
   <b>Contact Me</b><br>
    Discord: Optimizer#3148<br>
-   Email: optimizer@tewi.club
+   Email: optimizer@tewi.club<br>
+   🇺🇸 English / 🇵🇭 Tagalog / 🇯🇵 日本語 
 </p>
 
 <p align="center">
