@@ -6,6 +6,11 @@
         Check out my custom Skyweaver card creator!
         <br>
         https://soulforge.gold
+        <br>
+        <br>
+        I also made a short experimental incremental game!
+        <br>
+        https://mochi.tewi.club
     </i>
 </p>
 
