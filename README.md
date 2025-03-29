@@ -5,7 +5,7 @@
         <br>
         Check out my custom Skyweaver card creator!
         <br>
-        https://soulforge.gold
+        https://soulforge.o513.dev
         <br>
         <br>
         I also made a short experimental incremental game!
